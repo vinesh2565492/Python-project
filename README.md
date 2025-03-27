@@ -19,9 +19,9 @@ class Account():
     # Handles user account data (username, password, balance)
 class BankManagement():
     # Implements core operations:
-    # - createaccount()
-    # - login() 
-    # - deposit()
-    # - withdraw()
-    # - check_balance()
-    # - mini_statement()
+    # - createaccount()\n
+    # - login() \n
+    # - deposit()\n
+    # - withdraw()\n
+    # - check_balance()\n
+    # - mini_statement()\n
